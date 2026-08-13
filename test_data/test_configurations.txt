@@ -1,0 +1,10 @@
+100MHz,1.2,normal,85C
+400MHz,1.0,normal,25C
+200MHz,1.1,normal,125C
+100MHz,0.9,low_power,85C
+100MHz,1.0,normal,85C
+400MHz,1.0,low_power,25C
+400MHz,1.1,normal,125C
+400MHz,1.0,low_power,85C
+100MHz,1.2,low_power,25C
+100MHz,1.2,normal,125C
